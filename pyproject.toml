@@ -11,6 +11,8 @@ pandas = "^2.0.2"
 seaborn = "^0.12.2"
 missingno = "^0.5.2"
 scikit-learn = "^1.2.2"
+plotly = "^5.15.0"
+nbformat = "^5.9.0"
 
 
 [tool.poetry.group.dev.dependencies]
